@@ -1,0 +1,10 @@
+C:\Progetti\VisualStudio\Tools\SqlExplorer\SqlExplorer\bin\Debug\SqlExplorer.exe.config
+C:\Progetti\VisualStudio\Tools\SqlExplorer\SqlExplorer\bin\Debug\SqlExplorer.exe
+C:\Progetti\VisualStudio\Tools\SqlExplorer\SqlExplorer\bin\Debug\SqlExplorer.pdb
+C:\Progetti\VisualStudio\Tools\SqlExplorer\SqlExplorer\obj\Debug\SqlExplorer.csprojAssemblyReference.cache
+C:\Progetti\VisualStudio\Tools\SqlExplorer\SqlExplorer\obj\Debug\SqlExplorer.TopcastSqlExplorerForm.resources
+C:\Progetti\VisualStudio\Tools\SqlExplorer\SqlExplorer\obj\Debug\SqlExplorer.Properties.Resources.resources
+C:\Progetti\VisualStudio\Tools\SqlExplorer\SqlExplorer\obj\Debug\SqlExplorer.csproj.GenerateResource.cache
+C:\Progetti\VisualStudio\Tools\SqlExplorer\SqlExplorer\obj\Debug\SqlExplorer.csproj.CoreCompileInputs.cache
+C:\Progetti\VisualStudio\Tools\SqlExplorer\SqlExplorer\obj\Debug\SqlExplorer.exe
+C:\Progetti\VisualStudio\Tools\SqlExplorer\SqlExplorer\obj\Debug\SqlExplorer.pdb

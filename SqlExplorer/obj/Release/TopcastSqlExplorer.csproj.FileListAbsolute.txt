@@ -1,0 +1,10 @@
+C:\Progetti\TopCast\WTP\VisualStudio\TopcastSqlExplorer\TopcastSqlExplorer\bin\Release\TopcastSqlExplorer.exe.config
+C:\Progetti\TopCast\WTP\VisualStudio\TopcastSqlExplorer\TopcastSqlExplorer\bin\Release\TopcastSqlExplorer.exe
+C:\Progetti\TopCast\WTP\VisualStudio\TopcastSqlExplorer\TopcastSqlExplorer\bin\Release\TopcastSqlExplorer.pdb
+C:\Progetti\TopCast\WTP\VisualStudio\TopcastSqlExplorer\TopcastSqlExplorer\obj\Release\TopcastSqlExplorer.csprojAssemblyReference.cache
+C:\Progetti\TopCast\WTP\VisualStudio\TopcastSqlExplorer\TopcastSqlExplorer\obj\Release\TopcastSqlExplorer.TopcastSqlExplorerForm.resources
+C:\Progetti\TopCast\WTP\VisualStudio\TopcastSqlExplorer\TopcastSqlExplorer\obj\Release\TopcastSqlExplorer.Properties.Resources.resources
+C:\Progetti\TopCast\WTP\VisualStudio\TopcastSqlExplorer\TopcastSqlExplorer\obj\Release\TopcastSqlExplorer.csproj.GenerateResource.cache
+C:\Progetti\TopCast\WTP\VisualStudio\TopcastSqlExplorer\TopcastSqlExplorer\obj\Release\TopcastSqlExplorer.csproj.CoreCompileInputs.cache
+C:\Progetti\TopCast\WTP\VisualStudio\TopcastSqlExplorer\TopcastSqlExplorer\obj\Release\TopcastSqlExplorer.exe
+C:\Progetti\TopCast\WTP\VisualStudio\TopcastSqlExplorer\TopcastSqlExplorer\obj\Release\TopcastSqlExplorer.pdb
